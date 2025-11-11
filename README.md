@@ -11,7 +11,7 @@ The core of this project is to showcase three key software engineering principle
 2.  **Encapsulation:** Hardware-specific code is bundled into clean, reusable classes.
 3.  **Finite State Machines (FSMs):** The main factory logic is managed by a robust, state-driven process.
 
-<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/093bccb8-39a1-4273-b0f8-97103a23f61c" />
+![factory](https://github.com/user-attachments/assets/20ae8ac6-3121-4b8c-8490-f42be30d6b8a)
 
 ---
 
